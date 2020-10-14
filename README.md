@@ -3,13 +3,13 @@
 ###### Disclaimer: Still waiting/praying that hacks@blizzard.com will reply to my email on whether this is against EULA or not.
 
 ### Description
-  Scout.py continuously scans the WoW Screenshots folder looking for new files added after the script's initial run time. If a new screenshot is found then Scout.py will then @everyone in a channel (3 times) based on the channel ID specified in each of the secondary scripts and play a song in a voice channel. 
+  Scout.py continuously scans the WoW Screenshots folder looking for new files added after the script's initial run time. If a new screenshot is found then Scout.py will then @everyone in a channel (3 times) based on the channel ID specified on line 31. 
   
  * **Requirements**
       * Python3
         * Pip
           * pip install discord
-          * pip install pynacl
+          * pip install pynacl (don't recall that this is necessary)
       * [Unitscan](https://www.curseforge.com/wow/addons/unitscan/)
       * A Discord Bot
    

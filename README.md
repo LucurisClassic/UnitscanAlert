@@ -18,7 +18,7 @@
   2. Edit scout.py to add/change:
       1. Line 23 with the correct path to your WoW Screenshots folder.
       2. Line 31 with the Text Channel IDs that you want ping'd.
-  3.  Unitscan needs to be slightly modified for this to work. All you need to do is add "Screenshot()" at line 26 in the unitscan.lua file. My file for example: https://imgur.com/XELY4Hj
+  3.  Unitscan needs to be slightly modified for this to work. All you need to do is add "Screenshot()" at line 31 in the unitscan.lua file. My file for example: https://imgur.com/XELY4Hj
   4. Scouting
       1. `/unitscan Azuregos`
       2. Run the Script via CMD. Examples below.

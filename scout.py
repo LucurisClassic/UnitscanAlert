@@ -4,7 +4,6 @@ import time
 import datetime
 import asyncio
 import discord
-import ffmpeg
 
 class MyClient(discord.Client):
 	def __init__(self, *args, **kwargs):
